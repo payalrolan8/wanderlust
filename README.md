@@ -1,5 +1,3 @@
-Got it ✅ — here’s your README fixed **without** the unnecessary last code block and with correct Markdown formatting:
-
 ---
 
 # 🏡 Wanderlust
