@@ -24,9 +24,4 @@ npm start
 ````
 
 Visit **[http://localhost:3000](http://localhost:3000)**
-
-## 👩‍💻 Author
-
-**Payal Rolan** — [GitHub](https://github.com/payalrolan)
-
 ```
