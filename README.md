@@ -1,5 +1,3 @@
-Got it 👍 — here’s your **clean, minimal, no-fluff README.md** — short, clear, and professional:
-
 ---
 
 ````markdown
@@ -31,13 +29,4 @@ Visit **[http://localhost:3000](http://localhost:3000)**
 
 **Payal Rolan** — [GitHub](https://github.com/payalrolan)
 
-```
-
----
-
-✅ Clean  
-✅ Professional  
-✅ Only what’s needed  
-
-Would you like me to make it slightly styled (with emojis or dividers) while keeping it this short?
 ```
