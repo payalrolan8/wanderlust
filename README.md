@@ -9,7 +9,6 @@ A web app inspired by Airbnb where users can create, browse, and review travel l
 * User authentication
 * Create, edit, and delete listings
 * Add reviews and ratings
-* Image uploads
 * Data validation and flash messages
 
 ## 🛠️ Tech Stack
