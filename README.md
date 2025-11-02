@@ -22,6 +22,5 @@ cd wanderlust
 npm install
 npm start
 ````
-
 Visit **[http://localhost:3000](http://localhost:3000)**
 ```
